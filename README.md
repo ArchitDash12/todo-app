@@ -3,7 +3,7 @@
 A sleek, responsive Todo application built with React and Vite. It helps users manage their daily tasks with status filtering, task counters, and persistent data storage.
 
 ## 🚀 Live Demo
-- **Live Deployment**: <!-- Add your live deployment link here (e.g. Vercel, Netlify) -->
+- **Live Deployment**: [https://todo-app-five-livid-56.vercel.app/](https://todo-app-five-livid-56.vercel.app/)
 
 ---
 
